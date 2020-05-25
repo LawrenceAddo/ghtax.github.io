@@ -1,1 +1,1 @@
-# ghtaxcalc.github.io
+# ghtax.github.io
